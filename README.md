@@ -8,8 +8,6 @@ Fork on GitHub8294
 <h1 align="center">Heyy 👋, I'm Shobhit Jain</h1>
 <h3 align="center">I am a 1st year engineering student pursuing major in AI</h3>
 
-- 🔭 I’m currently working on **Dry bean classification**
-
 - 🌱 I’m currently learning **Machine learning, DSA**
 
 - 📫 How to reach me **shobhitjain0922@gmail.com**
